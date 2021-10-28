@@ -25,7 +25,7 @@ body textarea:required:valid {
 }
 body {
 	font-family: 'TTNorms';
-	overflow-x: hidden;
+	overflow-x: hidden; 
 	margin: 0;
 	background-color: #f5f7fb;
 	font-size: 15px;
